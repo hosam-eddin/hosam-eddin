@@ -32,7 +32,7 @@ I love building user interfaces and crafting delightful user experiences.
 
 ### My GitHub Stats
 
-![Hosam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true)
+![Hosam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hosam-eddin&show_icons=true)
 
 
 ⭐️ From [Hosam Sharaf](https://github.com/L1cardo)
