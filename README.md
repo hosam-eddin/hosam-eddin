@@ -18,6 +18,7 @@ I love building user interfaces and crafting delightful user experiences.
 ##### Some of the technologies I work with:
 
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-222222?style=flat&logo=Next.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/-HTML5-222222?style=flat&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-222222?style=flat&logo=css3&logoColor=1572B6)
