@@ -7,9 +7,7 @@ I love building user interfaces and crafting delightful user experiences.
 
 ### Talking about Personal Stuffs:
 
-- 👨‍💻 Currently a medical student at my 4th year;
-- 🚀 My interests are with iOS and macOS programming, AI in medical, Python, etc.;
-- 💼 Pursuing a Bachelor's degree in Medical Imaging;
+- 💼 Pursuing a Bachelor's degree in BCE Engineering;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email me if you have any questions.
 
